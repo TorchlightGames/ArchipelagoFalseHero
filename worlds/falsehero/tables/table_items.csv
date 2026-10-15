@@ -1,0 +1,180 @@
+ID,Name,Classification,Count
+1001,Scraps of ink,Filler,0
+1002,Scraps of ink (Death infused),Filler,0
+1003,Binoculars,Filler,1
+1004,Mask shard,Filler,0
+1005,Dried ink,Filler,0
+1006,Invigorating flesh,Filler,0
+1007,Blood needle,Filler,0
+1008,Dried ink (Death infused),Filler,0
+1009,Flask shard,Useful,4
+1010,Tome of Combat,Useful,2
+1011,Common ink,Filler,0
+1012,Common ink (Death infused),Filler,0
+1013,Luxurious ink,Filler,16
+1014,Luxurious ink (Death infused),Filler,8
+2001,Insight (Scholar of Wisdom),Progression,3
+2002,Insight (Knowledge Keeper),Useful,3
+2003,Insight (Ignorance),Useful,1
+2004,Insight (Foreign Defense Machine),Useful,3
+2005,Insight (Advanced Protection Unit),Progression,1
+2006,Insight (Living Hand),Progression,4
+2007,Insight (Shroomhead),Useful,5
+2008,Insight (Pumping Vine),Useful,5
+2009,Insight (Physician of Birth),Useful,14
+2010,Insight (Plant Knight),Useful,5
+2011,Insight (Decaying Ape),Progression,1
+2012,Insight (Dissolving Remains),Useful,3
+2013,Insight (Immortal Child),Useful,1
+2014,Insight (Decay),Useful,1
+2015,Insight (Villager of Hopes Kingdom),Progression,9
+2016,Insight (Disposed Sacrifice),Useful,5
+2017,Insight (Headless Angel),Useful,3
+2018,Insight (Sacrificial Mound),Progression,1
+2019,Insight (Guardian Angel),Progression,4
+2020,Insight (Scholar of Hope),Useful,4
+2021,Insight (True Angel),Progression,1
+2022,Insight (Vaour),Progression,1
+2023,Insight (Despair),Useful,1
+2024,Insight (Soldier of Passion),Useful,13
+2025,Insight (Shield Golem),Useful,5
+2026,Insight (Annihilation Unit),Progression,3
+2027,Insight (Apostle of Death),Useful,1
+2028,Insight (Apathy),Progression,1
+2029,Insight (Passion),Useful,1
+2030,Insight (Deathborn),Useful,1
+3001,Knowledge Keeper tunic,Filler,1
+3002,Knowledge Keeper boots,Filler,1
+3003,Pointed hat,Filler,1
+3004,Cerulean breastplate,Filler,1
+3005,Cerulean legwear,Filler,1
+3006,Monocle,Filler,1
+3007,Robes of Wisdom (top),Filler,1
+3008,Robes of Wisdom (bottom),Filler,1
+3009,Veil of Wisdom,Filler,1
+3010,Tattered cloak,Filler,1
+3011,Tattered skirt,Filler,1
+3012,Crown of Ignorance,Filler,1
+3013,Cerulean helmet,Filler,1
+3014,Physicians tunic,Progression,1
+3015,Physicians pants,Progression,1
+3016,Physicians light,Filler,1
+3017,Leafbed top,Filler,1
+3018,Leafbed skirt,Filler,1
+3019,Chitin leggings,Filler,1
+3020,Pumping carcass,Filler,1
+3021,Pumping vines,Filler,1
+3022,Lifeless vines,Filler,1
+3023,Dress of Birth,Filler,1
+3024,Blindfold of Birth,Filler,1
+3025,Rainbow scalemail (top),Filler,1
+3026,Rainbow scalemail (bottom),Filler,1
+3027,Rainbow helmet,Filler,1
+3028,Leonoras flower,Progression,1
+3029,Ash of the Apostle (bottom),Filler,1
+3030,Rotten eggbed,Filler,1
+3031,Eyes of Decay,Filler,1
+3032,Engineers faceguard,Filler,1
+3033,Ripped garment,Filler,1
+3034,Priests tunic (bottom),Filler,1
+3035,Broken angel breastplate,Filler,1
+3036,Amalgamated bones (top),Filler,1
+3037,Amalgamated bones (bottom),Filler,1
+3038,Bone crown,Filler,1
+3039,Angelic flowing skirt,Filler,1
+3040,Storage pot,Filler,1
+3041,Broken angel leggings,Filler,1
+3042,Conserving pot,Filler,1
+3043,Priests tunic (top),Filler,1
+3044,White dress of Hope,Filler,1
+3045,White hood of Hope,Filler,1
+3046,Angelic breastplate,Filler,1
+3047,Angelic head,Filler,1
+3048,Divine rings,Filler,1
+3049,Breastplate of the dragon,Progression,1
+3050,Legwear of the dragon,Progression,1
+3051,Headpiece of the dragon,Progression,1
+3052,Bird mask,Filler,1
+3053,Stakes of Despair,Filler,1
+3054,War goddess skirt,Filler,1
+3055,Desert warrior chestplate,Filler,1
+3056,Desert warrior legwear,Filler,1
+3057,Furnace helmet,Filler,1
+3058,War goddess breastplate,Filler,1
+3059,War goddess helmet,Filler,1
+3060,Machine chassis (top),Filler,1
+3061,Machine chassis (bottom),Filler,1
+3062,Machine head,Filler,1
+3063,Ash of the Apostle (top),Filler,1
+3064,Horns of the Apostle,Filler,1
+3065,Scribal veil,Filler,1
+4001,Memoir of Wisdom (first half),Progression,1
+4002,Auditorium key,Progression,1
+4003,Essence of Wisdom,Progression,1
+4004,Memoir of Wisdom (second half),Progression,1
+4005,Rusty gate key,Progression,1
+4006,Crystallized Blood,Progression,2
+4007,Leonoras journal (first half),Progression,1
+4008,Flower seedling,Progression,1
+4009,Cell key,Progression,1
+4010,Leonoras journal (second half),Progression,1
+4011,Essence of Birth,Progression,1
+4012,Bloody sewer key,Progression,1
+4013,Fresh meat,Progression,2
+4014,Sacrificial pit key,Progression,1
+4015,Acolytes testimony (first half),Progression,1
+4016,Golden canvas,Progression,1
+4017,Painting of a true angel,Filler,1
+4018,Painting of despair,Filler,1
+4019,Acolytes testimony (second half),Progression,1
+4020,Golden winged key,Progression,1
+4021,Painting of a mysterious skull,Progression,1
+4022,Essence of Hope,Progression,1
+4023,Writings of the Mask Maker (first half),Progression,1
+4024,Jail key,Progression,1
+4025,Writings of the Mask Maker (second half),Progression,1
+4026,Essence of Passion,Progression,1
+4027,Brain tissue,Progression,1
+5001,Scroll of discipline,Useful,1
+5002,Scroll of Martial Flow,Useful,1
+5003,Scroll of focused heal,Useful,1
+5004,Scroll of retaliation,Useful,1
+5005,Scroll of counterstrike,Useful,1
+5006,Scroll of Ignorance,Useful,1
+5007,Scroll of Strong Mind,Useful,1
+5008,Scroll of Poison Resistance,Useful,1
+5009,Scroll of Evasion,Useful,1
+5010,Scroll of focused assault,Useful,1
+5011,Scroll of relentless attacks,Useful,1
+5012,Scroll of focused retaliation,Useful,1
+5013,Scroll of enduring thorns,Useful,1
+5014,Conjugated Bloodstones,Useful,1
+5015,Scroll of focused evasion,Useful,1
+5016,Scroll of damaging thorns,Useful,1
+5017,Scroll of everbloom,Useful,1
+5018,Scroll of parasites,Useful,1
+5019,Scroll of knowledge,Useful,1
+5020,Scroll of the blood ritual,Useful,1
+5021,Scroll of the sprinter,Useful,1
+5022,Scroll of martial mastery,Useful,1
+5023,Scroll of the traveller,Useful,1
+5024,Scroll of the flesh devourer,Useful,1
+5025,Scroll of Hopes light,Useful,1
+5026,Scroll of the strengthened angel,Useful,1
+5027,Scroll of the quickened angel,Useful,1
+5028,Scroll of the dragon,Useful,1
+5029,Scroll of fear,Useful,1
+5030,Scroll of the focused angel,Useful,1
+5031,Scroll of fragility,Useful,1
+5032,Scroll of the summoner,Useful,1
+5033,Scroll of martial elegance,Useful,1
+5034,Scroll of desperation,Useful,1
+5035,Scroll of the Red Flame,Useful,1
+5036,Scroll of regenerative flame,Useful,1
+5037,Scroll of the Mask Maker,Useful,1
+5038,Scroll of immortality,Useful,1
+5039,Scroll of the Philosophers,Useful,1
+5040,Scroll of boiling blood,Useful,1
+6001,Vines of Birth,Progression,1
+6002,Wings of Hope,Progression,1
+6003,Red Flame of Passion,Progression,1
