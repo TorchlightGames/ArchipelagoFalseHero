@@ -15,7 +15,7 @@ Will you fight for the Gods or become an apostle of Death?
 
 All item pickups are randomized. This includes inks, consumables, scrolls, clothing and key items.
 
-All Insight drops are randomized. Insight can be picked up in any order. Enemies will stop drop the same amount of Insight as in the base game. (For example Knowledge Keepers drop 3 Insight, while bosses drop only 1)
+All Insight drops are randomized. Insight can be picked up in any order. Enemies will drop the same amount of Insight as in the base game. (For example Knowledge Keepers drop 3 Insight, while bosses drop only 1)
 The amount of required Insight to learn Combat Arts can be customized.
 
 The gods powers (excluding the Blade of Wisdom) are randomized. This includes Vines of Birth, Wings of Hope and the Red Flame of Passion.
