@@ -1,9 +1,8 @@
 # False Hero
 
-Game Page | [Setup] | [Items] | [Locations]
+Game Page | [Setup] | [Locations]
 
 [Setup]: /worlds/falsehero/docs/setup_en.md
-[Items]: /worlds/falsehero/docs/items_en.md
 [Locations]: /worlds/falsehero/docs/locations_en.md
 
 ## What is False Hero?

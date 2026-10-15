@@ -1,5 +1,10 @@
 # False Hero Locations
 
+[Game Page] | [Setup] | Locations
+
+[Game Page]: /worlds/falsehero/docs/en_FalseHero.md
+[Setup]: /worlds/falsehero/docs/setup_en.md
+
 ## Location names
 
 All locations begin with an abbreviation indicating their general region.

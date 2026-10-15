@@ -1,9 +1,8 @@
 # False Hero Randomizer Setup Guide
 
-[Game Page] | Setup | [Items] | [Locations]
+[Game Page] | Setup | [Locations]
 
 [Game Page]: /worlds/falsehero/docs/en_FalseHero.md
-[Items]: /worlds/falsehero/docs/items_en.md
 [Locations]: /worlds/falsehero/docs/locations_en.md
 
 ## Required Software
